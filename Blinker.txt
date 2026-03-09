@@ -1,0 +1,4 @@
+30 40 // dimension of board
+5 5 // position of cell 1
+5 6 // position of cell 2
+5 7 // position of cell 3
